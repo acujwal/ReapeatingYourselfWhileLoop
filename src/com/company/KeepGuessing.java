@@ -10,8 +10,7 @@ public class KeepGuessing {
         int secretNumber, guess = 0;//guess is initialized to 0
 
         secretNumber = 123;
-        secretNumber = 388;
-        secretNumber = 853;
+        
 
         System.out.println("I'm thinking of a number between 1 and 1000");
         System.out.print("Enter the number:");
